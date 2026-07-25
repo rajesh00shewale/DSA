@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajesh00shewale/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/rajesh00shewale/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rajesh00shewale/DSA/tree/master/0189-rotate-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajesh00shewale/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/rajesh00shewale/DSA/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajesh00shewale/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
