@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajesh00shewale/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajesh00shewale/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/rajesh00shewale/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rajesh00shewale/DSA/tree/master/0189-rotate-array) |
@@ -27,9 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rajesh00shewale/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/rajesh00shewale/DSA/tree/master/0189-rotate-array) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/rajesh00shewale/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rajesh00shewale/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
