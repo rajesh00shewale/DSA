@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rajesh00shewale/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rajesh00shewale/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rajesh00shewale/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3731-find-missing-elements](https://github.com/rajesh00shewale/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajesh00shewale/DSA/tree/master/0075-sort-colors) |
+| [3731-find-missing-elements](https://github.com/rajesh00shewale/DSA/tree/master/3731-find-missing-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/rajesh00shewale/DSA/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
