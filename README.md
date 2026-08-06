@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rajesh00shewale/DSA/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/rajesh00shewale/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/rajesh00shewale/DSA/tree/master/0441-arranging-coins) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rajesh00shewale/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/rajesh00shewale/DSA/tree/master/3731-find-missing-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rajesh00shewale/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
